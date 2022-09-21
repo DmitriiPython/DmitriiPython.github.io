@@ -1,0 +1,144 @@
+body{
+  
+  font-family: Arial; Sens-serif;
+  background-image: url("../img/bg.jpg"); 
+  background-repeat: repeat;
+  color: #b4b400;
+}
+
+nav{
+
+  width: 100%;
+  height: 60px;
+  background: #021413;
+
+}
+
+.logo{
+
+  color: #b4b400;
+  font-size: 28px;
+  line-height: 60px;
+  padding-left: 388px;
+  float: left;
+
+}
+
+.menu{
+
+  float: left;
+  float: top;
+  padding-left: 430px;
+  
+}
+
+.menu li{
+
+  float: left;
+  color: #b4b400;
+  margin-right: 40px;
+  line-height: 60px;
+  font-size: 16px;
+  text-transform: uppercase;
+
+}
+
+.main{
+ 
+  width: 100%;
+  height: calc(100% - 60px);
+  background: url("../img/iam.png") no-repeat 100% 70px, url("../img/back.jpg") repeat 90% 100%
+
+}
+
+.title__container{
+
+  float: left;
+  margin: 431px 0px 0px 404px;
+  color: #b4b400;
+  text-align: center;
+  
+}
+
+.title__container h1{
+
+  font-size: 60px;
+  font-weight: bold;
+
+}
+
+.title__container h4{
+
+  margin-top: 30px;
+  font-size: 22px;
+  color: #5b640b;
+  
+}
+
+.title__container input{
+
+  margin: 50px 20px 20px 5px;
+  height: 40px;
+  text-align: center;
+  border: 2px solid #5b640b;
+  border-radius: 5px;
+  background: none;
+  color: #5b640b;
+  font-size: 15px;
+  padding: 10px 5px 10px 5px;
+
+}
+
+
+.about_me_container h2{
+
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 22px;
+  width: 120px;
+  margin: 10px auto;
+  padding-bottom: 10px;
+  
+}
+
+.about_me_container hr{
+
+  width: 80px;
+  background: #b4b400;
+  height: 3px;
+  border: none;
+  margin: auto;
+  
+}
+
+
+.about_me_container img{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  margin-bottom: 10px;
+  
+}
+
+.about_me_container a{
+
+  margin-top: 20px;
+  color: #b4b400;
+  border: 2px solid #b4b400;
+  border-radius: 5px;
+  padding: 5px 5px 5px 5px;
+  
+  
+  
+}
+  
+.about_me_container{
+
+  display: block;
+  font-size: 12px;
+  text-align: center;
+  
+}
+
